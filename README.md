@@ -2,8 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kalaiekalai)
 [![GitHub Personal](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/kalai-logicsoft)
-[![GitHub Personal](https://img.shields.io/badge/GitHub%20Personal-Follow-green)](https://github.com/ekalaivan92)
-[![Visit my website](https://img.shields.io/badge/Visit-My%20Website-blue)](https://ekalaivan.net)
+[![GitHub Personal](https://img.shields.io/badge/GitHub%20Personal-Follow-blue)](https://github.com/ekalaivan92)
+[![Visit my website](https://img.shields.io/badge/Website-Visit-blue)](https://ekalaivan.net)
+[![Visit my blogs](https://img.shields.io/badge/Blog-Visit-blue)](https://blogs.ekalaivan.net)
 
 ## About Me
 
