@@ -56,8 +56,6 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a seasoned Dot Net Full-Stack Develope
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 
----
-
 ## Contact Me
 
 📧 Mail: ekalaivan35@gmail.com  
@@ -67,7 +65,5 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a seasoned Dot Net Full-Stack Develope
 📝 Blogs: [blogs.ekalaivan.net](http://blogs.ekalaivan.net/)  
 🐙 GitHub-Work: [kalai-logicsoft](https://github.com/kalai-logicsoft)  
 🐙 GitHub-Personal: [kalai](https://github.com/ekalaivan92)  
-
----
 
 ## Let's Connect!
