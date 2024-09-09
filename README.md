@@ -22,16 +22,16 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a seasoned Dot Net Full-Stack Develope
 
 ### Languages & Frameworks
 
-![C#.NET](https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.Net Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Razor Pages](https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#.NET](https://img.shields.io/badge/C%23.NET-007ec6?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-007ec6?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.Net Core](https://img.shields.io/badge/ASP.NET_Core-007ec6?style=for-the-badge&logo=.net&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-007ec6?style=for-the-badge&logo=.net&logoColor=white)
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-007ec6?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-007ec6?style=for-the-badge&logo=.net&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-e4ce19?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0080FF?style=for-the-badge&logo=css3&logoColor=white)
 
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
