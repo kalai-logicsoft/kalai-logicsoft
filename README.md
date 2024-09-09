@@ -50,6 +50,8 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a seasoned Dot Net Full-Stack Develope
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Digital Ocean Droplets](https://img.shields.io/badge/Digital_Ocean_Droplets-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-7F00FF?style=for-the-badge&logo=docker&logoColor=white)
+![Docker-Compose](https://img.shields.io/badge/docker--compose-7F00FF?style=for-the-badge&logo=docker&logoColor=white)
 
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.microsoft.com/en-us/windows/)
