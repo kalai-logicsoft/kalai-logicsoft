@@ -66,6 +66,7 @@ Hi there! 👋 I'm Ekalaivan Chidambaram, a seasoned Dot Net Full-Stack Develope
 💻 Website: [ekalaivan.net](https://ekalaivan.net/)  
 📝 Blogs: [blogs.ekalaivan.net](http://blogs.ekalaivan.net/)  
 🐙 GitHub-Work: [kalai-logicsoft](https://github.com/kalai-logicsoft)  
+🐙 GitHub-Personal: [kalai](https://github.com/ekalaivan92)  
 
 ---
 
